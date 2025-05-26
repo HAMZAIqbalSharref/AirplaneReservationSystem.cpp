@@ -64,7 +64,7 @@ void resetSystem() {
 
 int main() {
     initializeSeating(); // Initialize the seating array
-    int choice, numSeats;a
+    int choice, numSeats;
 
     while (true) {
         cout << "--------------------------------------------------" << endl;
